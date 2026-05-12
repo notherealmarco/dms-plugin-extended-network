@@ -4,11 +4,11 @@
     "description": "Network toggle with Ethernet, WiFi, and Other interfaces (bridges, VLANs, bonds)",
     "version": "1.0.0",
     "license": "MIT",
-    "author": "user",
+    "author": "Marco Realacci",
     "type": "widget",
     "capabilities": ["control-center"],
     "icon": "settings_ethernet",
-    "firstParty": true,
+    "firstParty": false,
     "component": "./DankExtendedNetworkToggle.qml",
     "requires_dms": ">=1.4.2",
     "permissions": [
