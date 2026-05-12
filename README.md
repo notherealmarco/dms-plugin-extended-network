@@ -1,0 +1,1 @@
+This is a simple DankMaterialShell plugin that adds a network toggle in the control center. Apart from Ethernet and Wi-Fi, this also shows vlan/bridges and other devices
