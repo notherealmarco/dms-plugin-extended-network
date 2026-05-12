@@ -1,0 +1,18 @@
+{
+    "id": "extendedNetworkToggle",
+    "name": "Extended Network Toggle",
+    "description": "Network toggle with Ethernet, WiFi, and Other interfaces (bridges, VLANs, bonds)",
+    "version": "1.0.0",
+    "license": "MIT",
+    "author": "user",
+    "type": "widget",
+    "capabilities": ["control-center"],
+    "icon": "settings_ethernet",
+    "firstParty": true,
+    "component": "./DankExtendedNetworkToggle.qml",
+    "requires_dms": ">=1.4.2",
+    "permissions": [
+        "settings_read",
+        "settings_write"
+    ]
+}
